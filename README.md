@@ -14,7 +14,9 @@
     </div>
     <script src="index.js"></script>
 </body>
+
 ## JS
+
 const SearchBar = document.getElementById("searchBar");
 const cardsContainer = document.getElementById("cardsContainer");
 const searchButton = document.getElementById("search");
