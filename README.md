@@ -12,7 +12,7 @@
            
         </div>
     </div>
-    <script src="./pokemon.js"></script>
+    <script src="index.js"></script>
 </body>
 ## JS
 const SearchBar = document.getElementById("searchBar");
