@@ -1,5 +1,5 @@
 # pokemonSearch
-# HOSTING LINK:
+# HOSTING LINK: https://rhushi1998.github.io/pokemonSearch/
 
 ## HTML
 <div class="mainContainer">
